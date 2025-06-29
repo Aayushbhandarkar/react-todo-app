@@ -1,5 +1,7 @@
 # Task Master 🚀
 
+![Task Master Screenshot](./screenshot.png) <!-- Add your screenshot here -->
+
 A sleek, modern todo application built with React that helps you organize your tasks efficiently with a beautiful dark theme interface.
 
 ## Features ✨
@@ -23,3 +25,6 @@ A sleek, modern todo application built with React that helps you organize your t
 
 ## Installation ⚙️
 
+1. Clone the repository:
+   
+   https://github.com/your-Ayushbhandarkar/task-master
