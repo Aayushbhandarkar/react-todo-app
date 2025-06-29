@@ -1,3 +1,25 @@
-# React ToDo App
+# Task Master 🚀
 
-A simple ToDo List made with React JS using Context API and useState.
+A sleek, modern todo application built with React that helps you organize your tasks efficiently with a beautiful dark theme interface.
+
+## Features ✨
+
+- 📝 Add new tasks with a clean input form
+- ✅ Mark tasks as complete with smooth animations
+- ✏️ Edit existing tasks inline
+- 🗑️ Delete tasks with confirmation
+- 🌓 Beautiful dark theme with gradient accents
+- 💾 Automatic local storage saving
+- 📊 Progress tracking (completed/total tasks)
+- 📱 Fully responsive design
+
+## Technologies Used 🛠️
+
+- React (Vite)
+- Tailwind CSS
+- Context API for state management
+- LocalStorage for persistence
+- React Icons
+
+## Installation ⚙️
+
